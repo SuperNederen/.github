@@ -1,5 +1,5 @@
 ## Hi there 👋
-We are players of, the danish minecraft server, SuperAwesome, wanting to create usefull tools for developers and server owners alike!
+We are players of, the danish minecraft server, SuperAwesome, wanting to create useful tools for developers and server owners alike!
 
 <!--
 
